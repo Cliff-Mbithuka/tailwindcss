@@ -8,6 +8,9 @@ module.exports = {
     extend: {
       appearance: ['hover', 'focus'], // Customize as needed
     },
+    fontFamily:{
+body:["Quicksand"]
+    },
   },
   plugins: [],
 }
